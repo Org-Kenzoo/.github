@@ -11,7 +11,8 @@ Kenzoo est une plateforme qui simplifie l'accès aux services du quotidien : tro
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [kenzoo-app](https://github.com/Org-Kenzoo/kenzoo-app) | Application mobile iOS & Android | React Native · Expo · Supabase |
-| [kenzoo-dashboard](https://github.com/Org-Kenzoo/kenzoo-dashboard) | Interface web prestataires & admin | React · Vite · Supabase |
+| [kenzoo-dashboard](https://github.com/Org-Kenzoo/kenzoo-dashboard) | Interface web prestataires | React · Vite · Supabase |
+| [kenzoo-admin](https://github.com/Org-Kenzoo/kenzoo-admin) | Back-office administrateur | Next.js · TypeScript · Supabase |
 | [kenzoo-web](https://github.com/Org-Kenzoo/kenzoo-web) | Site vitrine & pages légales | HTML · CSS |
 
 ---
